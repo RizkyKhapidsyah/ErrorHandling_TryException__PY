@@ -1,0 +1,7 @@
+Type of Exception Errors:
+1. IOError
+2. ImportError
+3. ValueError
+4. Division By Zero
+5. KeyboardInterupted
+6. EOFError
