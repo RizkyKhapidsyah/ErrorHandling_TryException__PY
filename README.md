@@ -1,5 +1,5 @@
 # ErrorHandling_TryException__PY
-Bahan Ajar Fundamental Pemrograman Python: Memahami dan Mengimplementasikan Error Handling (TryException) Pada Pemrograman Python<br><br>
+Bahan Ajar Fundamental Pemrograman Python: Memahami dan Mengimplementasikan Error Handling (TryException) Pada Pemrograman Python.<br><br>
 
 <img src="https://github.com/RizkyKhapidsyah/ErrorHandling_TryException__PY/blob/master/rslts/001.PNG">
 <img src="https://github.com/RizkyKhapidsyah/ErrorHandling_TryException__PY/blob/master/rslts/002.PNG">
